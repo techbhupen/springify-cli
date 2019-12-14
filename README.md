@@ -1,2 +1,2 @@
 # springify-cli
-Node module to generate the boilerplate code for Spring boot
+Node module to generate starter project for Spring boot
